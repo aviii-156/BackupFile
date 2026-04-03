@@ -2,15 +2,15 @@
 # Last updated: 2026-03-01
 
 # FastAPI and dependencies
-fastapi==0.109.0
-uvicorn[standard]==0.27.0
-pydantic==2.5.3
-pydantic-settings==2.1.0
-python-multipart==0.0.6
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
 
 # AI/ML Libraries
 google-generativeai
-pandas==2.2.0  # For data loading and processing
+pandas  # For data loading and processing
 
 # Voice Pipeline
 # openai-whisper==20231117    # Speech-to-Text (Whisper base model)
@@ -19,67 +19,67 @@ onnxruntime                 # Required by piper-tts for ONNX model inference
 imageio[ffmpeg]             # Bundles FFmpeg binaries so Whisper works without a system FFmpeg install
 
 # Image Processing
-Pillow==10.2.0
-numpy==1.26.3
-scipy==1.12.0
+Pillow
+numpy
+scipy
 
 # OCR
-pytesseract==0.3.10
+pytesseract
 
 # Data Validation
-email-validator==2.1.0.post1
+email-validator
 
 # HTTP Clients
-httpx==0.26.0
-aiohttp==3.9.1
+httpx
+aiohttp
 
 # Monitoring and Logging
-python-dotenv==1.0.0
-loguru==0.7.2
+python-dotenv
+loguru
 
 # Testing
-pytest==7.4.4
-pytest-asyncio==0.23.3
-pytest-cov==4.1.0
-httpx==0.26.0
+pytest
+pytest-asyncio
+pytest-cov
+httpx
 
 # Code Quality
-black==23.12.1
-flake8==7.0.0
-mypy==1.8.0
-pylint==3.0.3
+black
+flake8
+mypy
+pylint
 
 # Development Tools
-pre-commit==3.6.0
-ipython==8.19.0
+pre-commit
+ipython
 
 # WebSocket support
 websockets
 
 # Rate Limiting
-slowapi==0.1.9
+slowapi
 
 # CORS
 # (included in FastAPI)
 
 # Date/Time
-python-dateutil==2.8.2
+python-dateutil
 
 # JSON
-ujson==5.9.0
+ujson
 
 # Environment
-environs==11.0.0
+environs
 
 # Security
-cryptography==42.0.0
+cryptography
 
 # File handling
-aiofiles==23.2.1
+aiofiles
 
 # Utilities
-python-slugify==8.0.1
-phonenumbers==8.13.27
+python-slugify
+phonenumbers
 
 # Optional: Cloud Storage
 # boto3==1.34.21  # AWS S3
