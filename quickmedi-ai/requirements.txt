@@ -8,6 +8,8 @@ pydantic
 pydantic-settings
 python-multipart
 
+
+gunicorn
 # AI/ML Libraries
 google-generativeai
 pandas  # For data loading and processing
