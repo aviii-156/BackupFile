@@ -11,7 +11,7 @@ python-multipart
 
 gunicorn
 # AI/ML Libraries
-google-generativeai
+google-genai
 pandas  # For data loading and processing
 
 # Voice Pipeline
