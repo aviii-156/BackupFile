@@ -1,5 +1,9 @@
 
-[Deployed Site](https://backup-file-jjoe.vercel.app/)
+[![](https://img.shields.io/badge/Deployed%20Site-Open-blue?style=for-the-badge&logo=vercel)](https://backup-file-jjoe.vercel.app/)
+
+**Deployed:** https://backup-file-jjoe.vercel.app/
+
+**How to use:** To use the deployed site, create an account and sign in as a user.
 
 ## Preview
 
