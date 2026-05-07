@@ -1,4 +1,13 @@
 
+[Deployed Site](https://backup-file-jjoe.vercel.app/)
+
+## Preview
+
+<p align="center">
+	<img src="Screenshots/Screenshot%202026-05-07%20135911.png" alt="Screenshot 2026-05-07 13:59:11" width="400" />
+	<img src="Screenshots/Screenshot%202026-05-07%20140248.png" alt="Screenshot 2026-05-07 14:02:48" width="400" />
+	<img src="Screenshots/Screenshot%202026-05-07%20140437.png" alt="Screenshot 2026-05-07 14:04:37" width="400" />
+</p>
 
 # Quic Medi Description
 
